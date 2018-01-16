@@ -23,3 +23,6 @@ git安装之后，如何上传key，如何配置github，[参考这篇文章](ht
 > github下拉项目是不需要配置ssh key的，但是上传和修改就需要了。
 
 如果同一台电脑配置多个ssh key，[可以参考该文](https://www.zybuluo.com/yangfch3/note/172120)
+
+
+更具体的git学习，可以参考[廖雪峰git博客](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/)
