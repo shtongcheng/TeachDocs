@@ -13,6 +13,8 @@
  
 > 为了方便查阅，每份内容都是一式三份，分别为不同格式。(markdown, html, pdf)。
 
+git安装之后，如何上传key，如何配置github，[参考这篇文章](https://www.cnblogs.com/superGG1990/p/6844952.html)
+
 
  
 这个账号本身就是申请的测试账号，账号密码，可以问 测试组长要。
